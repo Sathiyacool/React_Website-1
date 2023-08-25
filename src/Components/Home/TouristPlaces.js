@@ -1,5 +1,5 @@
 import React from 'react'
-import '../Styles/TouristPlaces.css'
+import '../../Styles/Home/TouristPlaces.css'
 import { Link } from 'react-scroll'
 import { Row, Col } from 'react-bootstrap'
 

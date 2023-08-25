@@ -1,12 +1,12 @@
 import React from 'react'
-import '../Styles/ImgSlider.css'
+import '../../Styles/Home/ImgSlider.css'
 import Carousel from 'react-bootstrap/Carousel'
 import { Row,Col } from 'react-bootstrap'
-import carouselFirst from '../Images/Carousel-img1.jpg'
-import carouselSecond from '../Images/Carousel-img2.jpeg'
-import carouselThird from '../Images/Carousel-Img3.jpeg'
-import carouselFourth from'../Images/Carousel-Img4.jpeg'
-import carouselFifth from '../Images/Carousel-img5.jpeg'
+import carouselFirst from '../../Images/Carousel-img1.jpg'
+import carouselSecond from '../../Images/Carousel-img2.jpeg'
+import carouselThird from '../../Images/Carousel-Img3.jpeg'
+import carouselFourth from'../../Images/Carousel-Img4.jpeg'
+import carouselFifth from '../../Images/Carousel-img5.jpeg'
 
 const ImgSlider = () => {
   return (

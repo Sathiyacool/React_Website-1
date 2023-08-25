@@ -1,9 +1,9 @@
 import React from 'react'
-import TheniIMG from '../Images/Theni.jpeg'
-import Theni1 from '../Images/theni1.jpeg'
-import Theni2 from '../Images/theni2.jpeg'
-import Theni3 from '../Images/theni3.jpeg'
-import Theni4 from '../Images/theni4.jpeg'
+import TheniIMG from '../../Images/Theni.jpeg'
+import Theni1 from '../../Images/theni1.jpeg'
+import Theni2 from '../../Images/theni2.jpeg'
+import Theni3 from '../../Images/theni3.jpeg'
+import Theni4 from '../../Images/theni4.jpeg'
 import { Row, Col, Container } from 'react-bootstrap'
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';

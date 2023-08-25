@@ -1,9 +1,9 @@
 import React from 'react'
-import KodaikanalIMG from '../Images/Kodaikanal.jpeg'
-import Kodaikanal1 from '../Images/kodaikanal1.jpeg'
-import Kodaikanal2 from '../Images/kodaikanal2.jpeg'
-import Kodaikanal3 from '../Images/kodaikanal3.jpeg'
-import Kodaikanal4 from '../Images/kodaikanal4.jpeg'
+import KodaikanalIMG from '../../Images/Kodaikanal.jpeg'
+import Kodaikanal1 from '../../Images/kodaikanal1.jpeg'
+import Kodaikanal2 from '../../Images/kodaikanal2.jpeg'
+import Kodaikanal3 from '../../Images/kodaikanal3.jpeg'
+import Kodaikanal4 from '../../Images/kodaikanal4.jpeg'
 import { Row, Col, Container } from 'react-bootstrap'
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';

@@ -1,9 +1,9 @@
 import React from 'react'
-import YarcaudIMG from '../Images/Yarcaud.jpeg'
-import Yarcaud1 from '../Images/yercaud1.jpeg'
-import Yarcaud2 from '../Images/yercaud2.jpeg'
-import Yarcaud3 from '../Images/yercaud3.jpeg'
-import Yarcaud4 from '../Images/yercaud4.jpeg'
+import YarcaudIMG from '../../Images/Yarcaud.jpeg'
+import Yarcaud1 from '../../Images/yercaud1.jpeg'
+import Yarcaud2 from '../../Images/yercaud2.jpeg'
+import Yarcaud3 from '../../Images/yercaud3.jpeg'
+import Yarcaud4 from '../../Images/yercaud4.jpeg'
 import { Row, Col, Container } from 'react-bootstrap'
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';

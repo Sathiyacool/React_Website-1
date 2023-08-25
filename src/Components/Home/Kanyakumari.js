@@ -1,9 +1,9 @@
 import React from 'react'
-import KanyakumariIMG from '../Images/Kanyakumari.jpeg'
-import Kanyakumari1 from '../Images/kanyakumari1.jpeg'
-import Kanyakumari2 from '../Images/kanyakumari2.jpeg'
-import Kanyakumari3 from '../Images/kanyakumari3.jpeg'
-import Kanyakumari4 from '../Images/kanyakumari4.jpeg'
+import KanyakumariIMG from '../../Images/Kanyakumari.jpeg'
+import Kanyakumari1 from '../../Images/kanyakumari1.jpeg'
+import Kanyakumari2 from '../../Images/kanyakumari2.jpeg'
+import Kanyakumari3 from '../../Images/kanyakumari3.jpeg'
+import Kanyakumari4 from '../../Images/kanyakumari4.jpeg'
 import { Row, Col, Container } from 'react-bootstrap'
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';

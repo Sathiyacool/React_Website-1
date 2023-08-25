@@ -1,9 +1,9 @@
 import React from 'react'
-import HogenkkalImg from '../Images/Hogenakkal.jpeg'
-import Hogenkkal1 from '../Images/hogenakkal1.jpeg'
-import Hogenkkal2 from '../Images/hogenakkal2.jpeg'
-import Hogenkkal3 from '../Images/hogenakkal3.jpeg'
-import Hogenkkal4 from '../Images/hokenakkal4.jpeg'
+import HogenkkalImg from '../../Images/Hogenakkal.jpeg'
+import Hogenkkal1 from '../../Images/hogenakkal1.jpeg'
+import Hogenkkal2 from '../../Images/hogenakkal2.jpeg'
+import Hogenkkal3 from '../../Images/hogenakkal3.jpeg'
+import Hogenkkal4 from '../../Images/hokenakkal4.jpeg'
 import { Row, Col, Container } from 'react-bootstrap'
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';

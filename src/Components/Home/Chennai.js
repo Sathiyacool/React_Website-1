@@ -1,13 +1,13 @@
 import React from 'react'
-import ChennaiImg from '../Images/Chennai.jpeg'
-import Chennai1 from '../Images/chennai1.jpeg'
-import Chennai2 from '../Images/chennai2.jpeg'
-import Chennai3 from '../Images/chennai3.jpeg'
-import Chennai4 from '../Images/chennai4.jpeg'
+import ChennaiImg from '../../Images/Chennai.jpeg'
+import Chennai1 from '../../Images/chennai1.jpeg'
+import Chennai2 from '../../Images/chennai2.jpeg'
+import Chennai3 from '../../Images/chennai3.jpeg'
+import Chennai4 from '../../Images/chennai4.jpeg'
 import { Row, Col, Container } from 'react-bootstrap'
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
-import '../Styles/Chennai.css'
+import '../../Styles/Home/Chennai.css'
 
 const Chennai = () => {
 

@@ -1,9 +1,9 @@
 import React from 'react'
-import OotyIMG from '../Images/Ooty.jpeg'
-import Ooty1 from '../Images/ooty1.jpeg'
-import Ooty2 from '../Images/ooty2.jpeg'
-import Ooty3 from '../Images/ooty3.jpeg'
-import Ooty4 from '../Images/ooty4.jpeg'
+import OotyIMG from '../../Images/Ooty.jpeg'
+import Ooty1 from '../../Images/ooty1.jpeg'
+import Ooty2 from '../../Images/ooty2.jpeg'
+import Ooty3 from '../../Images/ooty3.jpeg'
+import Ooty4 from '../../Images/ooty4.jpeg'
 import { Row, Col, Container } from 'react-bootstrap'
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';

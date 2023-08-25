@@ -1,9 +1,9 @@
 import React from 'react'
-import RameswaramIMG from '../Images/Rameshwaran.jpeg'
-import Rameswaram1 from '../Images/rameshwarem1.jpeg'
-import Rameswaram2 from '../Images/rameshwarem2.jpeg'
-import Rameswaram3 from '../Images/rameshwaram3.jpeg'
-import Rameswaram4 from '../Images/rameshwarem4.jpeg'
+import RameswaramIMG from '../../Images/Rameshwaran.jpeg'
+import Rameswaram1 from '../../Images/rameshwarem1.jpeg'
+import Rameswaram2 from '../../Images/rameshwarem2.jpeg'
+import Rameswaram3 from '../../Images/rameshwaram3.jpeg'
+import Rameswaram4 from '../../Images/rameshwarem4.jpeg'
 import { Row, Col, Container } from 'react-bootstrap'
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';

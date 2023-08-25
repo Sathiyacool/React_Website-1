@@ -1,5 +1,8 @@
-import React from 'react'
+import React,{useState} from 'react';
 import '../Styles/Navbar.css'
+import { Link } from 'react-router-dom'
+
+
 
 const Navbar = () => {
   return (
@@ -7,8 +10,12 @@ const Navbar = () => {
      <nav>
         <h4 className='title'>TAMILNADU TOURISM</h4>
         <ul>
-         <li>Home</li>
-         <li>Places to Visit</li>
+         <li>
+           <Link to='/' className='link'>Home</Link>
+          </li>
+         <li>
+           <Link to='/places' className='link'>Places to Visit</Link>
+          </li>
          <li>Best Time to Visit</li>
          <li>Packages</li>
          <li>Destination</li>

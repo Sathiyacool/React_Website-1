@@ -1,9 +1,9 @@
 import React from 'react'
-import MaduraiIMG from '../Images/Madurai.jpeg'
-import Madurai1 from '../Images/madurai1.jpeg'
-import Madurai2 from '../Images/madurai2.jpeg'
-import Madurai3 from '../Images/madurai3.jpeg'
-import Madurai4 from '../Images/madurai4.jpeg'
+import MaduraiIMG from '../../Images/Madurai.jpeg'
+import Madurai1 from '../../Images/madurai1.jpeg'
+import Madurai2 from '../../Images/madurai2.jpeg'
+import Madurai3 from '../../Images/madurai3.jpeg'
+import Madurai4 from '../../Images/madurai4.jpeg'
 import { Row, Col, Container } from 'react-bootstrap'
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';

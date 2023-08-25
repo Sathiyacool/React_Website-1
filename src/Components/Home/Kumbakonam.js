@@ -1,13 +1,13 @@
 import React from 'react'
-import KumbakonamIMG from '../Images/Kumbakonam.jpeg'
-import Kumbakonam1 from '../Images/kumbakonam1.jpeg'
-import Kumbakonam2 from '../Images/kumbakonam2.jpeg'
-import Kumbakonam3 from '../Images/Kumbakonam3.jpeg'
-import Kumbakonam4 from '../Images/kumbakonam4.jpeg'
+import KumbakonamIMG from '../../Images/Kumbakonam.jpeg'
+import Kumbakonam1 from '../../Images/kumbakonam1.jpeg'
+import Kumbakonam2 from '../../Images/kumbakonam2.jpeg'
+import Kumbakonam3 from '../../Images/Kumbakonam3.jpeg'
+import Kumbakonam4 from '../../Images/kumbakonam4.jpeg'
 import { Row, Col, Container } from 'react-bootstrap'
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
-import '../Styles/Chennai.css'
+import '../../Styles/Home/Chennai.css'
 
 const Kumbakonam = () => {
   return (
