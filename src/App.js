@@ -6,6 +6,7 @@ import Placestovisit from './Components/Placestovisit';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.min.js';
+import Timetovisit from './Components/Timetovisit';
 
 
 
@@ -16,7 +17,8 @@ function App() {
       
       <Routes>
         <Route path='/' element={ <Home />}  />
-        <Route path='/places' element={ <Placestovisit />} />  
+        <Route path='/places' element={ <Placestovisit />} /> 
+        <Route path='Time' element={<Timetovisit />}></Route> 
       </Routes>
 
     </div>
