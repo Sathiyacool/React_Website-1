@@ -1,0 +1,23 @@
+.food-text{
+    text-indent: 2.5rem;
+    text-align: justify;
+    margin-top: 25px;
+}
+.food-image{
+    width: 230px;
+    height: 200px;
+    margin: 0px 0px 0px 0;
+}
+.even-col{
+   padding-left: 10px;
+}
+.food-cover {
+   border: 2px solid white;
+   border-radius: 20px;
+   box-shadow: 2px 2px 5px 3px gray;
+   width: 420px !important;
+}
+.food-cover-text{
+   text-align: justify;
+   text-indent: 2rem;
+} 

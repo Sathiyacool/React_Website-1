@@ -21,7 +21,9 @@ const Navbar = () => {
          </li>
          <li>Packages</li>
          <li>Destination</li>
-         <li>Food</li>
+         <li>
+           <Link to='/food' className='link'>Food</Link>
+         </li>
         </ul>
       </nav>
     </header>
